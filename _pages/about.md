@@ -1,17 +1,3 @@
-#  Leader
-<div style="display: flex; align-items: center;">
-    <img src="![![f5e82799c87bf1c2f236e704bc6edaf](https://github.com/user-attachments/assets/98370287-bb84-431a-8586-c9ca3d54c5b0)
-]()
-" alt="Leader Photo" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 10px;">
-    <div>
-        <strong>Leader Name</strong><br>
-        A brief introduction about the leader. Research interests include .....
-    </div>
-</div>
-
-
-
-
 ---
 permalink: /
 title: ""
