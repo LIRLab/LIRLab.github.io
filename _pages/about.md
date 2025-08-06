@@ -9,15 +9,6 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# 🤝LIR Lab Introduction
-Our team consists of 3 PhD candidates and 25 master's students.
-
-**Core Focus:**  
-We concentrate on the field of computer vision, with key areas of research including:
-- **⚙️ Low-level Vision Enhancement:** Low light, adverse weather adaptation, denoising, restoration, and fusion.
-- **⚙️ Intelligent Analysis of Medical Images:** Segmentation and diagnostic assistance.
-- **⚙️ Metric Learning and Domain Generalization:** Contrastive learning, unsupervised and semi-supervised learning.
-- **⚙️ Infrared Small Target Detection and Tracking:** Remote sensing and security scenarios.
 
 # 🎓Leader Introduction
 
@@ -91,7 +82,15 @@ Tongshun Zhang, **Pingping Liu***, Ming Zhao, Haotian Lv
 </div>
 </div>
 
+# 🤝LIR Lab Introduction
+Our team consists of 3 PhD candidates and 25 master's students.
 
+**Core Focus:**  
+We concentrate on the field of computer vision, with key areas of research including:
+- **⚙️ Low-level Vision Enhancement:** Low light, adverse weather adaptation, denoising, restoration, and fusion.
+- **⚙️ Intelligent Analysis of Medical Images:** Segmentation and diagnostic assistance.
+- **⚙️ Metric Learning and Domain Generalization:** Contrastive learning, unsupervised and semi-supervised learning.
+- **⚙️ Infrared Small Target Detection and Tracking:** Remote sensing and security scenarios.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
