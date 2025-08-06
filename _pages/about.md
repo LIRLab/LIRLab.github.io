@@ -10,9 +10,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🤝LIR Lab Introduction
+Our team consists of 3 PhD candidates and 25 master's students.
+
+**Core Focus:**  
+We concentrate on the field of computer vision, with key areas of research including:
+- **⚙️ Low-level Vision Enhancement:** Low light, adverse weather adaptation, denoising, restoration, and fusion.
+- **⚙️ Intelligent Analysis of Medical Images:** Segmentation and diagnostic assistance.
+- **⚙️ Metric Learning and Domain Generalization:** Contrastive learning, unsupervised and semi-supervised learning.
+- **⚙️ Infrared Small Target Detection and Tracking:** Remote sensing and security scenarios.
+
 # 🎓Leader Introduction
 
-刘萍萍是吉林大学计算机科学与技术学院教授，博士生导师，中国计算机学会会员。研究方向为底层视觉图像增强，度量学习，医学影像分析，红外小目标检测及嵌入式人工智能。近三年在国际顶级会议/期刊（CCF-A/B/C，中科院 1 区/2 区）上发表学术论文21 篇，其中以第一/通讯作者身份发表论文 11 篇。 担任《吉林大学学报（工学版）》编委，长期担任 CCF 顶级会议 IJCAI，AAAI，NIPS，ACM MM 等和 IEEE 旗舰期刊 TIP，TCYB， TNNLS， ACM 旗舰期刊TMM, TKDD 等的审稿人。获得“2024年度中国商业联合会科技进步奖二等奖”一项（排名第一），“2024年度中国发明协会发明创新创业奖二等奖”一项（排名第三）。中国授权发明专利31项。承担国家自然科学基金、中国博士后基金、吉林省自然科学基金、吉林省青年科研基金、吉林省工业领域重点研发项目等多项科研项目.
+刘萍萍是吉林大学计算机科学与技术学院教授，博士生导师，中国计算机学会会员。研究方向为底层视觉图像增强，度量学习，医学影像分析，红外小目标检测及嵌入式人工智能。近三年在国际顶级会议/期刊（CCF-A/B/C，中科院 1 区/2 区）上发表学术论文21 篇，其中以第一/通讯作者身份发表论文 11 篇。 担任《吉林大学学报（工学版）》编委，长期担任 CCF 顶级会议 IJCAI，AAAI，NIPS，ACM MM 等和 IEEE 旗舰期刊 TIP，TCYB， TNNLS， ACM 旗舰期刊TMM, TKDD 等的审稿人。获得“2024年度中国商业联合会科技进步奖二等奖”一项（排名第一），“2024年度中国发明协会发明创新创业奖二等奖”一项（排名第三）。中国授权发明专利31项。承担国家自然科学基金、中国博士后基金、吉林省自然科学基金、吉林省青年科研基金、吉林省工业领域重点研发项目等多项科研项目
 
 Liu Pingping is a Professor at the School of Computer Science and Technology, Jilin University, and a doctoral supervisor. She is a member of the China Computer Federation. Her research interests include low-level vision image enhancement, metric learning, medical image analysis, infrared small target detection, and embedded artificial intelligence.
 In the past three years, she has published 21 academic papers in top international conferences/journals (CCF-A/B/C, Chinese Academy of Sciences Zones 1/2), with 11 of these papers as the first or corresponding author. She serves as an editorial board member for the Journal of Jilin University (Engineering Edition) and has been a reviewer for leading CCF conferences such as IJCAI, AAAI, NIPS, ACM MM, as well as for flagship IEEE journals including TIP, TCYB, TNNLS, and ACM flagship journals like TMM and TKDD.
@@ -82,15 +92,7 @@ Tongshun Zhang, **Pingping Liu***, Ming Zhao, Haotian Lv
 </div>
 </div>
 
-# 🤝LIR Lab Introduction
-Our team consists of 3 PhD candidates and 25 master's students.
-
-**Core Focus:**  
-We concentrate on the field of computer vision, with key areas of research including:
-- **⚙️ Low-level Vision Enhancement:** Low light, adverse weather adaptation, denoising, restoration, and fusion.
-- **⚙️ Intelligent Analysis of Medical Images:** Segmentation and diagnostic assistance.
-- **⚙️ Metric Learning and Domain Generalization:** Contrastive learning, unsupervised and semi-supervised learning.
-- **⚙️ Infrared Small Target Detection and Tracking:** Remote sensing and security scenarios.
+<!-- 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -106,3 +108,5 @@ We concentrate on the field of computer vision, with key areas of research inclu
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+-->
