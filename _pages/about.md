@@ -1,3 +1,23 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
+
 # Leader
 
 刘萍萍是吉林大学计算机科学与技术学院教授，博士生导师，中国计算机学会会员。研究方向为底层视觉图像增强，度量学习，医学影像分析，红外小目标检测及嵌入式人工智能。近三年在国际顶级会议/期刊（CCF-A/B/C，中科院 1 区/2 区）上发表学术论文21 篇，其中以第一/通讯作者身份发表论文 11 篇。 担任《吉林大学学报（工学版）》编委，长期担任 CCF 顶级会议 IJCAI，AAAI，NIPS，ACM MM 等和 IEEE 旗舰期刊 TIP，TCYB， TNNLS， ACM 旗舰期刊TMM, TKDD 等的审稿人。获得“2024年度中国商业联合会科技进步奖二等奖”一项（排名第一），“2024年度中国发明协会发明创新创业奖二等奖”一项（排名第三）。中国授权发明专利31项。承担国家自然科学基金、中国博士后基金、吉林省自然科学基金、吉林省青年科研基金、吉林省工业领域重点研发项目等多项科研项目.
