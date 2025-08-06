@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 
@@ -28,20 +21,24 @@ She has received the "2024 China Association for Productivity Promotion Scientif
 She has undertaken multiple research projects, including those supported by the National Natural Science Foundation, the China Postdoctoral Fund, the Jilin Provincial Natural Science Fund, the Jilin Provincial Youth Science Fund, and key R&D projects in the industrial sector of Jilin Province.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 One paper accepted to TGRS 2025. 
+- *2025.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2025.
+- *2025.06*: &nbsp;🎉🎉 Two paper accepted to ESWA 2025.
+- *2025.05*: &nbsp;🎉🎉 One paper accepted to INFFUS 2025.
+- *2025.03*: &nbsp;🎉🎉 One paper accepted to ICME 2025.
+- *2024.07*: &nbsp;🎉🎉 One paper accepted to ACM MM 2024.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/tgrs2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LSDSSMs:Infrared Small Target Detection Network based on Low-Rank Sparse Decomposition State Space Models](https://ieeexplore.ieee.org/document/11106451)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yubing Lu, **Pingping Liu***, Aohua Li, Qiuzhan Zhou, Kai Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 </div>
 </div>
 
