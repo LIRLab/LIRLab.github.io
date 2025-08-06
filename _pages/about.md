@@ -30,7 +30,7 @@ She has undertaken multiple research projects, including those supported by the 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS</div><img src='images/tgrs2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/tgrs2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LSDSSMs:Infrared Small Target Detection Network based on Low-Rank Sparse Decomposition State Space Models](https://ieeexplore.ieee.org/document/11106451)
@@ -39,10 +39,37 @@ Yubing Lu, **Pingping Liu***, Aohua Li, Qiuzhan Zhou, Kai Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/abs/2507.10689)
+
+Tongshun Zhang, **Pingping Liu***, Yubing Lu, Mengen Cai, Zijian Zhang, Zhe Zhang, Qiuzhan Zhou
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/eswa2025-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-modal fusion guided retinex-based low-light image enhancement](https://www.sciencedirect.com/science/article/pii/S0957417425022729?via%3Dihub)
+
+**Pingping Liu***, Xiaoyi Wang, Tongshun Zhang, Liyuan Yin
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2025</div><img src='images/inffus2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement](https://arxiv.org/abs/2507.10689)
+
+Tongshun Zhang, **Pingping Liu***, Mengen Cai, Xiaoyi Wang, Qiuzhan Zhou
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement](https://arxiv.org/abs/2412.00683)
+
+Tongshun Zhang, **Pingping Liu***, Ming Zhao, Haotian Lv
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
