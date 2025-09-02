@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "LIR Lab"
     url: "/#about-me"
+
+  - title: "Leader"
+    url: "/#-news"
 
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: "Patents"
     url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "Students"
     url: "/#-invited-talks"
 
   - title: "Internships"
