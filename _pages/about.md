@@ -125,12 +125,20 @@ Yifan Wang, **Pingping Liu***, Yijun Lang, Qiuzhan Zhou, Xue Shan
 # 👨‍🎓 Students
 
 ### **Current PhD Students**
-- Tongshun Zhang 张同顺 (2023) [Homepage Link](https://bywlzts.github.io/)
-- Yubing Lu 卢禹冰 (2024)
+- Tongshun Zhang 张同顺 (2023) [[Homepage Link]](https://bywlzts.github.io/)
+- Yubing Lu 卢禹冰 (2024) [[Homepage Link]](https://t133000.github.io/#about-me)
 
 ### **Current MS Students**
 
 #### **2025 Grade**
+- Jiaqi Liu 刘嘉琪
+- Haoran Liu 刘浩然
+- Dongyu Li 李栋禹
+- Zefeng Xu 徐泽枫
+- Pengyu Xu 徐鹏宇
+- Yuqing Lei 雷宇卿
+
+#### **2024 Grade**
 - Zixuan Zhong 钟子璇
 - Qi Chai 柴琦
 - Zhanshun Meng 孟湛顺
@@ -139,20 +147,23 @@ Yifan Wang, **Pingping Liu***, Yijun Lang, Qiuzhan Zhou, Xue Shan
 - Muyao Wang 王慕尧
 - Haoyu Yang 杨浩宇
 - Jiahao Liu 刘佳豪
+- Aohua Li 李奥华
+- Mengen Cai 蔡蒙恩
+- Jiaqi Zhang 张嘉齐
 
-#### **2024 Grade**
-- Tianqi Li 李天奇
+#### **2023 Grade**
+- Tianqi Li 李天奇 (低光图像增强 CVIU *1)
 - Songan Chen 陈颂安
 - Longyu Hu 胡龙雨
 - Yu Luo 罗钰
 - Haodong Li 李浩东
-- Xiaoyi Wang 王晓艺
-- Ming Zhao 赵明
+- Xiaoyi Wang 王晓艺 (低光图像增强 ESWA *1)
+- Ming Zhao 赵明 (低光图像增强 ICME *1)
 - Zhe Zhang 张哲
 
 ### **MS Graduates**
 
-#### **2025 Graduates**
+#### **2022 Graduates**
 - Xiaofeng Liu 刘晓峰 - 字节跳动
 - Shihao Liu 刘世豪 - 小鹏汽车
 - Xiaoyu Xie 解晓宇 - 中国农业发展银行软件开发中心
@@ -160,28 +171,28 @@ Yifan Wang, **Pingping Liu***, Yijun Lang, Qiuzhan Zhou, Xue Shan
 - Chuangye Dai 代创业 - 武汉金山办公软件有限公司
 - Zhongqi Wang 王中奇 - 济南浪潮数据技术有限公司
 
-#### **2024 Graduates**
+#### **2021 Graduates**
 - Zetong Liu 刘泽同 - 一汽大众
 - Pengfei Chen 陈鹏飞 - 中国第一汽车集团有限公司研发总院
 - Jinhua Hu 胡锦华 - 中国电子科技集团有限公司电子科学研究院
 - Guangxin Du 杜广新 - 中国第一汽车集团有限公司研发总院
 - Wenli Shang 商文理 - 中共吉林省委党校
 
-#### **2023 Graduates**
+#### **2020 Graduates**
 - Yifan Wang 王一帆 - 字节跳动
 - Gangjun Ning 宁港军 - 中联重科股份有限公司
 - Xiaokang Yang 杨晓康 - 中航行移动科技有限公司
 
-#### **2022 Graduates**
+#### **2019 Graduates**
 - Xue Shan 单雪 - 深圳移动
 - Junjie Zhu 朱俊杰 - 台积电（中国）有限公司
 
-#### **2021 Graduates**
+#### **2018 Graduates**
 - Lida Shi 石立达 - 吉林大学博士研究生
 - Baixin Jin 金百鑫 - 中国第一汽车集团有限公司研发总院
 - Guixia Gou 勾贵霞
 
-#### **2020 Graduates**
+#### **2017 Graduates**
 - Zhuang Miao 苗壮 - 长光卫星
 - Huili Guo 郭慧俐 - 陕西省国库支付中心
 
