@@ -31,6 +31,7 @@ She has received the "2024 China Association for Productivity Promotion Scientif
 She has undertaken multiple research projects, including those supported by the National Natural Science Foundation, the China Postdoctoral Fund, the Jilin Provincial Natural Science Fund, the Jilin Provincial Youth Science Fund, and key R&D projects in the industrial sector of Jilin Province.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper accepted to ESWA 2025. 
 - *2025.08*: &nbsp;🎉🎉 One paper accepted to TGRS 2025. 
 - *2025.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2025.
 - *2025.06*: &nbsp;🎉🎉 Two paper accepted to ESWA 2025.
@@ -39,6 +40,8 @@ She has undertaken multiple research projects, including those supported by the 
 - *2024.07*: &nbsp;🎉🎉 One paper accepted to ACM MM 2024.
 
 # 📚 Selected Publications 
+
+/* and † denote a corresponding author and an equal-contribution author, respectively.
 
 ---
 
@@ -57,6 +60,12 @@ Tongshun Zhang, **Pingping Liu***, Yubing Lu, Mengen Cai, Zijian Zhang, Zhe Zhan
 *Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement* *(**Information Fusion 2025**)*
 
 Tongshun Zhang, **Pingping Liu***, Mengen Cai, Xiaoyi Wang, Qiuzhan Zhou
+
+---
+
+*Multi-modal fusion guided retinex-based low-light image enhancement* *(**ESWA 2025, CCF-C**)*
+
+Mengen Cai, Tongshun Zhang †, **Pingping Liu***, Qiuzhan Zhou
 
 ---
 
@@ -150,6 +159,8 @@ Yifan Wang, **Pingping Liu***, Yijun Lang, Qiuzhan Zhou, Xue Shan
 - Aohua Li 李奥华
 - Mengen Cai 蔡蒙恩
 - Jiaqi Zhang 张嘉齐
+- Wenlong Shao 邵文珑
+- Shijun Fu 符士骏
 
 #### **2023 Grade**
 - Tianqi Li 李天奇 (低光图像增强 CVIU *1)
@@ -160,6 +171,7 @@ Yifan Wang, **Pingping Liu***, Yijun Lang, Qiuzhan Zhou, Xue Shan
 - Xiaoyi Wang 王晓艺 (低光图像增强 ESWA *1)
 - Ming Zhao 赵明 (低光图像增强 ICME *1)
 - Zhe Zhang 张哲
+- Liyuan Yin 尹莉媛
 
 ### **MS Graduates**
 
