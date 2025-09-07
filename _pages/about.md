@@ -41,7 +41,7 @@ She has undertaken multiple research projects, including those supported by the 
 
 # 📚 Selected Publications 
 
-/* and † denote a corresponding author and an equal-contribution author, respectively.
+\* and † denote a corresponding author and an equal-contribution author, respectively.
 
 ---
 
@@ -63,7 +63,7 @@ Tongshun Zhang, **Pingping Liu***, Mengen Cai, Xiaoyi Wang, Qiuzhan Zhou
 
 ---
 
-*Multi-modal fusion guided retinex-based low-light image enhancement* *(**ESWA 2025, CCF-C**)*
+*APMoE-Net: Fourier Amplitude-Phase Joint Enhancement and MoE Compensation for Low-Light lmage Enhancement* *(**ESWA 2025, CCF-C**)*
 
 Mengen Cai, Tongshun Zhang †, **Pingping Liu***, Qiuzhan Zhou
 
