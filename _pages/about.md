@@ -159,6 +159,7 @@ Yifan Wang, **Pingping Liu***, Yijun Lang, Qiuzhan Zhou, Xue Shan
 - Aohua Li 李奥华
 - Mengen Cai 蔡蒙恩 (低光图像增强 ESWA *1)
 - Jiaqi Zhang 张嘉齐
+- Lixia Liu 刘丽霞
 - Wenlong Shao 邵文珑
 - Shijun Fu 符士骏
 
